@@ -40,8 +40,11 @@ Below are visual examples of the automation workflows included:
 ![Workflow Example 3](GOOGLEANALYTICS.png)
 *Automates campaign reporting and data sync between Google Analytics and Sheets.*
 
-![Workflow Example 4](leads.png)
+![Workflow Example 4](METAADS.png)
+*Automates campaign reporting and data sync between Google Analytics and Sheets.*
+
+![Workflow Example 5](leads.png)
 *Automates lead generation and puts it in google sheets and send via email*
 
-![Workflow Example 5](WEEKLYREPORTASSISTANT.png)
+![Workflow Example 6](WEEKLYREPORTASSISTANT.png)
 *Weekly reports assistant sends updates via email*
