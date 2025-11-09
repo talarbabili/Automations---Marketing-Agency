@@ -31,7 +31,7 @@ Created to centralize and streamline marketing operations — empowering teams t
 
 Below are visual examples of the automation workflows included:
 
-! Workflow Example 1 (GOOGLEADS.png)
+![Workflow Example 1](GOOGLEADS.png)
 *Automates campaign reporting and data sync between Google Ads and Sheets.*
 
 ![Workflow Example 2](scheduling.png)
